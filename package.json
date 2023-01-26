@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@tippyjs/react": "^4.2.6",
     "date-fns": "^2.29.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -16,7 +17,8 @@
     "react-icons": "^4.7.1",
     "react-modal": "^3.16.1",
     "react-table": "^7.8.0",
-    "react-toastify": "^9.1.1"
+    "react-toastify": "^9.1.1",
+    "uninstall": "^0.0.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.26",
