@@ -6,6 +6,7 @@
 // import {ReactModal} from "./component/ReactModal.jsx";
 
 import ReactTippy from "./component/ReactTippy.jsx";
+import ReactCountUp from "./component/ReactCountUp.jsx";
 
 function App() {
 
@@ -14,7 +15,8 @@ function App() {
 				{/*<Icons/>*/}
 				{/*<ReactToastify/>*/}
 				{/*<ReactModal/>*/}
-				<ReactTippy/>
+				{/*<ReactTippy/>*/}
+				<ReactCountUp/>
 			</div>
 	)
 }
