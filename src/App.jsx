@@ -4,9 +4,10 @@
 // import Icons from "./component/Icons.jsx";
 // import {ReactToastify} from "./component/ReactToastify.jsx";
 // import {ReactModal} from "./component/ReactModal.jsx";
+              // import ReactTippy from "./component/ReactTippy.jsx";
+// import ReactCountUp from "./component/ReactCountUp.jsx";
 
-import ReactTippy from "./component/ReactTippy.jsx";
-import ReactCountUp from "./component/ReactCountUp.jsx";
+import IdleTimerApp from "./component/IdleTimer.jsx";
 
 function App() {
 
@@ -16,7 +17,8 @@ function App() {
 				{/*<ReactToastify/>*/}
 				{/*<ReactModal/>*/}
 				{/*<ReactTippy/>*/}
-				<ReactCountUp/>
+				{/*<ReactCountUp/>*/}
+				<IdleTimerApp/>
 			</div>
 	)
 }
